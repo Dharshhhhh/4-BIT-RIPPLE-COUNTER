@@ -33,6 +33,10 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 4.Use the Waveform Editor to assign nodes for clk, rstn, and out.
 
 5.Simulate the design with different clk and rstn combinations to generate the timing diagram, and save the results.
+```
+Developed by: Dharshini R
+Register number: 212224220023
+```
 
 **PROGRAM**
 
